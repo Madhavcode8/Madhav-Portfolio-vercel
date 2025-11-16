@@ -102,7 +102,7 @@ const Hero = () => {
 
         <div className="flex gap-4 justify-center">
           <a 
-            href="https://github.com/madhavsinghal" 
+            href="https://github.com/Madhavcode8" 
             target="_blank"
             rel="noopener noreferrer"
             className="p-3 rounded-full bg-card/50 backdrop-blur-sm border border-border/50 hover:border-primary/50 hover:bg-card transition-all hover:-translate-y-1"
@@ -110,7 +110,7 @@ const Hero = () => {
             <Github className="h-5 w-5" />
           </a>
           <a 
-            href="https://linkedin.com/in/madhavsinghal" 
+            href="https://www.linkedin.com/in/madhav-singhal-520104213/" 
             target="_blank"
             rel="noopener noreferrer"
             className="p-3 rounded-full bg-card/50 backdrop-blur-sm border border-border/50 hover:border-primary/50 hover:bg-card transition-all hover:-translate-y-1"
